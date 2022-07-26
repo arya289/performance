@@ -1,4 +1,4 @@
-job_level,job_duration_in_current_job_level,person_level,job_duration_in_current_person_level,job_duration_in_current_branch,Employee_type,gender,age,marital_status_maried(Y/N),number_of_dependences,Education_level,GPA,year_graduated,job_duration_from_training,branch_rotation,job_rotation,assign_of_otherposition,annual leave,sick_leaves,Last_achievement_%,Achievement_above_100%_during3quartal,Best_Performance
+job_level,job_duration_in_current_job_level,person_level,job_duration_in_current_person_level,job_duration_in_current_branch,Employee_type,gender,age,marital_status_maried,number_of_dependences,Education_level,GPA,year_graduated,job_duration_from_training,branch_rotation,job_rotation,assign_of_otherposition,annual leave,sick_leaves,Last_achievement,Achievement_above_100_during3quartal,Best_Performance
 JG04,1.352774926,PG03,1.352774926,1.732050808,RM_type_A,2,1985,Y,1,level_0,2.86,2011,4,2,3,2,3,0,46.37,0,0
 JG04,1.292284798,PG03,1.292284798,1.039230485,RM_type_A,2,1989,Y,0,level_1,7.28,2007,4,4,3,0,0,1,47.68,0,0
 JG05,2.565151068,PG06,2.308679276,1.780449381,RM_type_C,1,1970,Y,1,level_1,0,1989,28,10,9,6,2,1,40.73,0,0
